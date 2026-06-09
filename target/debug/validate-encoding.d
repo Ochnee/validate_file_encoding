@@ -1,1 +1,0 @@
-/home/andreas/Repos/validate_file_encoding/target/debug/validate-encoding: /home/andreas/Repos/validate_file_encoding/src/detect.rs /home/andreas/Repos/validate_file_encoding/src/git.rs /home/andreas/Repos/validate_file_encoding/src/main.rs /home/andreas/Repos/validate_file_encoding/src/mojibake.rs /home/andreas/Repos/validate_file_encoding/src/output.rs
