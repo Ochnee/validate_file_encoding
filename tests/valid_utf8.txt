@@ -1,0 +1,3 @@
+Hej, detta är en svensk text med åäö.
+Norsk tekst: æø er også fine bokstaver.
+Dette er en test.

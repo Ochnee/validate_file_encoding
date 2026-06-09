@@ -1,0 +1,3 @@
+Valid UTF-8 text here.
+Then some ÿþ garbage bytes.
+More valid text.
